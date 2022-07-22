@@ -83,14 +83,14 @@ div{
 
 .top-cloud{
     position: absolute;
-    right: 300px;
-    top: 40px;
+    right: 400px;
+    top: 60px;
     
 }
 .bot-cloud{
-    position: absolute;
-    left: 250px;
-    top: 300px;
+    position: relative;
+    left: -100px;
+    top: -500px;
 }
 
 .skill-row{
