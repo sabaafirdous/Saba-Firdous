@@ -32,8 +32,10 @@ h3{
     background-color:#610C63;
     position: relative;
     padding-top: 100px;
-    
-    
+}
+
+.mon{
+    position: relative;
 }
 .middle-container{
     padding: 100px 0;
